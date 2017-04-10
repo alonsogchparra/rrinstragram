@@ -17,7 +17,7 @@ import { AddContainer } from './components/add';
 
 import '../dist/css/style.css';
 
-filepicker.setKey("A0QJtRxcISLKPF43iFs70z");
+filepicker.setKey("INSERT API KEY HERE");
 
 const sagaMiddleware = createSagaMiddleware();
 const store = createStore(
